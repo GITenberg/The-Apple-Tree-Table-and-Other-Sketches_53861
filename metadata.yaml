@@ -1,0 +1,39 @@
+_repo: The-Apple-Tree-Table-and-Other-Sketches_53861
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Chapin, Henry
+    birthdate: 1893
+    deathdate: 1983
+    gutenberg_agent_id: '47584'
+    url: http://www.gutenberg.org/2009/agents/47584
+creator:
+  author:
+    agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
+description: ''
+gutenberg_issued: '2017-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53861'
+  lccn: '23006764'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Short stories, American'
+- GITenberg
+tableOfContents: The apple-tree table -- Hawthorne and his Mosses -- Jimmy Rose --
+  I and my chimney -- The Paradise of Bachelors and the Tartarus of Maids -- Cock-a-doodle-doo
+  -- The fiddler -- Poor man's pudding and rich man's crumbs -- The happy failure
+  -- The 'Gees.
+title: The Apple-Tree Table, and Other Sketches
+url: http://www.gutenberg.org/ebooks/53861
